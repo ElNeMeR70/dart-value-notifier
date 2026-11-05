@@ -1,0 +1,5 @@
+name: dart_value_notifier
+description: ValueNotifier with computed derived values
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
